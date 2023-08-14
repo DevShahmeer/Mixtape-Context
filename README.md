@@ -6,6 +6,7 @@ Welcome to "My Mixtape App"! This is a simple web application where you can crea
 ## Table of Contents
 
 - [Features](#features)
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
@@ -17,6 +18,13 @@ Welcome to "My Mixtape App"! This is a simple web application where you can crea
 - Filter songs by genre or display all songs.
 - Toggle the sorting order of songs by year.
 - User-friendly controls to customize your mixtape experience.
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org) (>=14.x)
+- [Yarn](https://yarnpkg.com) (>=1.22.x)
 
 ## Installation
 
@@ -32,10 +40,10 @@ Welcome to "My Mixtape App"! This is a simple web application where you can crea
    cd your-mixtape-app
    ```
 
-3. Install dependencies using your preferred package manager. Since this project uses Vite, you can use the following command:
+3. Install dependencies using Yarn:
 
    ```sh
-   npm install
+   yarn install
    ```
 
 ## Usage
@@ -43,7 +51,7 @@ Welcome to "My Mixtape App"! This is a simple web application where you can crea
 1. Run the development server:
 
    ```sh
-   npm run dev
+   yarn dev
    ```
 
 2. Open your web browser and visit `http://localhost:3000` to access the Mixtape App.
@@ -83,6 +91,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
 
-Please replace `your-username` and `your-mixtape-app` with your actual GitHub username and repository name.
-
-Feel free to add more sections or customize the README to suit your project's specific needs. This template provides a basic structure to get you started.
+Again, please replace `your-username` and `your-mixtape-app` with your actual GitHub username and repository name. This version of the README includes instructions for using Yarn and provides a more detailed "Prerequisites" section.
