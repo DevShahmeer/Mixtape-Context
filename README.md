@@ -2,7 +2,7 @@
 # My Mixtape App 🎵
 
 Welcome to "My Mixtape App"! This is a simple web application where you can create and manage your mixtape with a collection of songs from different genres. You can control the display and sorting of songs using the provided controls.
-
+![Untitled design (3)](https://github.com/DevShahmeer/Mixtape-Context/assets/108333592/d0928318-840c-48fd-9f82-9f2ea83ba8ac)
 ## Table of Contents
 
 - [Features](#features)
@@ -11,6 +11,7 @@ Welcome to "My Mixtape App"! This is a simple web application where you can crea
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
 
 ## Features
 
@@ -31,7 +32,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```sh
-   git clone https://github.com/your-username/your-mixtape-app.git
+   git clone https://github.com/DevShahmeer/Mixtape-Context.git
    ```
 
 2. Navigate to the project directory:
@@ -86,9 +87,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 5. Create a pull request on the main repository. Be sure to include a detailed description of your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-Again, please replace `your-username` and `your-mixtape-app` with your actual GitHub username and repository name. This version of the README includes instructions for using Yarn and provides a more detailed "Prerequisites" section.
